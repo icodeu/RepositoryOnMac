@@ -1,0 +1,11 @@
+package com.adapter.mathpower;
+
+public class Adapter implements ITarget {
+
+	@Override
+	public void square() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

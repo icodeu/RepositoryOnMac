@@ -1,0 +1,5 @@
+package com.prototype.mail;
+
+public class Attachment {
+
+}

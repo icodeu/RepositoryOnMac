@@ -1,0 +1,14 @@
+
+public class PropertiesReader {
+	
+	private PropertiesReader(){}
+	
+	private static class HolderClass{
+		private static final PropertiesReader instance = new PropertiesReader();
+	}
+	
+	public static PropertiesReader getInstance(){
+		return HolderClass.instance;
+	}
+
+}

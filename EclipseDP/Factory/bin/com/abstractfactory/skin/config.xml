@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<skinType>com.abstractfactory.skin.SummerSkinFactory</skinType>
+	<!-- <skinType>com.abstractfactory.skin.SpringSkinFactory</skinType> -->
+</config>

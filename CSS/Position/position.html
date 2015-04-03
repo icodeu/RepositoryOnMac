@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+
+<style type="text/css">
+#position1 {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	position: relative;
+	left: 20px;
+	top: 20px;
+	z-index: 2;
+}
+
+#position2 {
+	width: 100px;
+	height: 100px;
+	background-color: aqua;
+	position: relative;
+	left: 10px;
+	top: 10px;
+	z-index: 1;
+}
+
+
+
+</style>
+
+<body>
+
+	<div id="position1"></div>
+	<div id="position2"></div>
+
+	<script type="text/javascript">
+		for (var i = 0 ; i < 100; i++)
+			document.write(i + "</br>");
+	</script>
+
+</body>
+</html>

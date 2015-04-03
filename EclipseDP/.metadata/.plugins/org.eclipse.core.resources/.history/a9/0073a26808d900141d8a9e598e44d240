@@ -1,0 +1,28 @@
+package com.composite.shapetrans;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ComplexShape extends IShape {
+	
+	private List<IShape> lists = new ArrayList<IShape>();
+
+	@Override
+	public void add(IShape shape) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void remove(IShape shape) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void draw() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

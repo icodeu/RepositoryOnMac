@@ -1,0 +1,35 @@
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Properties;
+
+
+public class PropertiesReader {
+	
+	private static final String PROPS_NAME = "type.properties";
+	
+	private PropertiesReader(){}
+	
+	private static class HolderClass{
+		private static final PropertiesReader instance = new PropertiesReader();
+	}
+	
+	public static PropertiesReader getInstance(){
+		return HolderClass.instance;
+	}
+	
+	public Map<String, String> getProperties(){
+		Map<String, String> map = new HashMap<String, String>();
+		Properties properties = new Properties();
+		
+		try {
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		
+		return null;
+	}
+	
+
+}

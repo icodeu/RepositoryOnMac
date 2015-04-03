@@ -1,0 +1,23 @@
+import java.util.Map;
+
+
+public class PropertiesReader {
+	
+	private static final String PROPS_NAME = "type.properties";
+	
+	private PropertiesReader(){}
+	
+	private static class HolderClass{
+		private static final PropertiesReader instance = new PropertiesReader();
+	}
+	
+	public static PropertiesReader getInstance(){
+		return HolderClass.instance;
+	}
+	
+	public Map<String, String> getProperties(){
+		
+	}
+	
+
+}

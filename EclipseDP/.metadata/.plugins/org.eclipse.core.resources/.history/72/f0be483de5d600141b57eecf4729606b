@@ -1,0 +1,9 @@
+
+public class TwoPlugAdapter implements IThreePlug {
+
+	@Override
+	public void powerWithThree() {
+		
+	}
+
+}

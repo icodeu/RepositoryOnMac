@@ -1,0 +1,31 @@
+package com.singleton.print;
+
+public class PrintSpooler {
+
+	private static PrintSpooler instance = null;
+	private PrintSpooler() {}
+	
+	public static PrintSpooler getInstance(){
+		if (instance == null){
+			instance = new PrintSpooler();
+			return instance;
+		}else {
+			try {
+				throw new Exception("Too More Printer");
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}
+		return null;
+	}
+	
+	public void delete(){
+		System.out.println("删除打印任务");
+	}
+	public void stop(){
+		System.out.println("中止打印任务");
+	}
+	public void change(){
+		System.out.println("改变打印任务");
+	}
+}

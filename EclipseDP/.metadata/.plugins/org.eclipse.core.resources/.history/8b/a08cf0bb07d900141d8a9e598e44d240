@@ -1,0 +1,9 @@
+package com.composite.shapetrans;
+
+public abstract class IShape {
+	
+	public String name;
+	
+	public abstract void add(IShape shape);
+
+}

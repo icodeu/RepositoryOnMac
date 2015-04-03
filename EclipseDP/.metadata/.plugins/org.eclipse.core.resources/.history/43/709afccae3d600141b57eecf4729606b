@@ -1,0 +1,6 @@
+
+public class GBTwoPlug {
+	
+	public void powerWithTwo();
+
+}

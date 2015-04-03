@@ -1,0 +1,13 @@
+
+public class Sheep implements IAnimal{
+
+	public Sheep() {
+		System.out.println("Sheep made");
+	}
+	
+	@Override
+	public IAnimal makeCopy() {
+		return null;
+	}
+
+}

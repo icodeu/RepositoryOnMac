@@ -1,0 +1,14 @@
+import java.util.Map;
+
+
+public class MainTest {
+
+	public static void main(String[] args) {
+		
+		PropertiesReader reader = PropertiesReader.getInstance();
+		Map<String, String> map = reader.getProperties();
+		
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.adapter.objectadapter;
+
+public class Adapter implements ITarget {
+
+	public Adaptee adaptee;
+	
+	@Override
+	public void request() {
+		adaptee.specificRequest();
+	}
+
+}

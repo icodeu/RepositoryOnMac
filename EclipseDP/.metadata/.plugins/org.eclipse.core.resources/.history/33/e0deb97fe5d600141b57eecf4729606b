@@ -1,0 +1,15 @@
+
+public class TwoPlugAdapter implements IThreePlug {
+
+	private GBTwoPlug twoPlug;
+	
+	public public TwoPlugAdapter(GBTwoPlug twoPlug) {
+		this.twoPlug = twoPlug;
+	}
+	
+	@Override
+	public void powerWithThree() {
+		
+	}
+
+}

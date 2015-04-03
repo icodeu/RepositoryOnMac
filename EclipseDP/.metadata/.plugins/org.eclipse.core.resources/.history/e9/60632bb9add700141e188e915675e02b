@@ -1,0 +1,12 @@
+package com.adapter.mathpower;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		ITarget target = new Adapter();
+		target.square(2);
+		
+	}
+
+}

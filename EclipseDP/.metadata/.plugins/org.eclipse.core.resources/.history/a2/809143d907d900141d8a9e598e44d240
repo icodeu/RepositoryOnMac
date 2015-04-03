@@ -1,0 +1,27 @@
+package com.composite.shapetrans;
+
+public class Line extends IShape {
+	
+	public Line() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void add(IShape shape) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void remove(IShape shape) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void draw() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

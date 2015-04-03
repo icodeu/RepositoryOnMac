@@ -1,0 +1,5 @@
+package com.singleton.print;
+
+public class PrintSpooler {
+
+}

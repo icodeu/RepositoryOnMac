@@ -1,0 +1,8 @@
+package com.prototype.mail;
+
+public class Mail implements Cloneable{
+	
+	private String sender;
+	private String receiver;
+
+}

@@ -1,0 +1,10 @@
+
+public class Sheep implements IAnimal{
+
+	@Override
+	public IAnimal makeCopy() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

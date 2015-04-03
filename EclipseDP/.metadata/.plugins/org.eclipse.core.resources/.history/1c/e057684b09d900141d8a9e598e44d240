@@ -1,0 +1,17 @@
+package com.composite.shapetrans;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		// 测试 直线 和 圆
+		IShape line = new Line("直线A");
+		line.add(new Line("直线B"));
+		line.draw();
+		
+		IShape circle = new Circle("圆A");
+		
+		
+	}
+
+}

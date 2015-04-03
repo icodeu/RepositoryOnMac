@@ -1,0 +1,16 @@
+package com.singleton.print;
+
+public class PrintSpooler {
+
+	private PrintSpooler instance = new PrintSpooler();
+	private PrintSpooler() {}
+	
+	public PrintSpooler getInstance(){
+		if (instance == null){
+			instance = new PrintSpooler();
+			return instance;
+		}
+	}
+	
+
+}
