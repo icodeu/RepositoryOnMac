@@ -1,0 +1,5 @@
+package com.iterator.page;
+
+public interface Iterator {
+
+}

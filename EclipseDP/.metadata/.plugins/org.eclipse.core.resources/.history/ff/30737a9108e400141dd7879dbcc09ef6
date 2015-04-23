@@ -1,0 +1,13 @@
+package com.iterator.page;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		ConcreteAggregate aggregate = new ConcreteAggregate();
+		for (i=0;i<100;i++)
+			aggregate.addItem("我是第" + i / ConcreteIterator.PAGE_SIZE + "页的数据" + i);
+
+	}
+
+}

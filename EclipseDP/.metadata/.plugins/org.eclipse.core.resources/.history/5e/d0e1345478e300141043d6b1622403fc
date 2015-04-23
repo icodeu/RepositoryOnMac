@@ -1,0 +1,15 @@
+package com.mediator.chatroom;
+
+public class DiamondMember extends Member {
+
+	@Override
+	public void sendText(String to, String message) {
+
+	}
+
+	@Override
+	public void sendImage(String to, String image) {
+
+	}
+
+}

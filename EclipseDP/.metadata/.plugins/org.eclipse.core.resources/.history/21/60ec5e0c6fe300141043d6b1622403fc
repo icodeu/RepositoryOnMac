@@ -1,0 +1,12 @@
+package com.mediator.colleague;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public abstract class AbstractMediator {
+	
+	private Map<String, AbstractColleague> map = new HashMap<String, AbstractColleague>();
+	
+	
+
+}

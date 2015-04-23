@@ -1,0 +1,10 @@
+package com.interpreter.calculator;
+
+public abstract class SymbolNode implements Node {
+
+	@Override
+	public int interpret() {
+		return 0;
+	}
+
+}

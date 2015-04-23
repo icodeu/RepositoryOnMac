@@ -1,0 +1,15 @@
+package com.chain.oa;
+
+public class Manager extends Leader {
+
+	public Manager(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void handleRequest(LeaveRequest request) {
+
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.chain.oa;
+
+public class Director extends Leader {
+
+	@Override
+	public void handleRequest(LeaveRequest request) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

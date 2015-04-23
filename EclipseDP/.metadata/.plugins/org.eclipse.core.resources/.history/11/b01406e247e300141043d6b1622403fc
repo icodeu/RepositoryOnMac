@@ -1,0 +1,22 @@
+package com.interpreter.robot;
+
+public class DistanceNode implements AbstractNode {
+
+	private String distance;
+	
+	public DistanceNode(String distance) {
+		this.distance = distance;
+	}
+
+	@Override
+	public String interpret() {
+		if (distance.equalsIgnoreCase("move")){
+			return "移动";
+		}
+		if (distance.equalsIgnoreCase("run")){
+			return "快速移动";
+		}
+		return "无效的动作指令";
+	}
+
+}

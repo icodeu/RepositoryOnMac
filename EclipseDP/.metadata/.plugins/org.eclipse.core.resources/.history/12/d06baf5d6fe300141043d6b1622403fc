@@ -1,0 +1,5 @@
+package com.mediator.colleague;
+
+public class ColleagueA extends AbstractColleague {
+
+}

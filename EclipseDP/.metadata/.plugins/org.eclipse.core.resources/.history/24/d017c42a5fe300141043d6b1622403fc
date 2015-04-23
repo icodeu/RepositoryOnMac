@@ -1,0 +1,15 @@
+package com.interpreter.calculator;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Calculator calculator = new Calculator();
+		String instruction = "3 * 4 / 2 % 4";
+		
+		calculator.calculate(instruction);
+		
+		
+	}
+
+}

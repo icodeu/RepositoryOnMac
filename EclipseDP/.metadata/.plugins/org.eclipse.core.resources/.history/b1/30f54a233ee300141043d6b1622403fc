@@ -1,0 +1,47 @@
+package com.flyweight.chess;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		IChess black1, black2, white1, white2;
+		ChessFactory instance = ChessFactory.getInstance();
+		
+		// 获取两颗黑棋
+		black1 = instance.getIChess(ChessFactory.BLACK);
+		black2 = instance.getIChess(ChessFactory.BLACK);
+		System.out.println("black1 = black2? " + (black1 == black2));
+		// 构造不同点
+		black1.display(new Position(1, 1));
+		black2.display(new Position(2, 2));
+		
+		// 获取两颗白棋
+		white1 = instance.getIChess(ChessFactory.WHITE);
+		white2 = instance.getIChess(ChessFactory.WHITE);
+		System.out.println("white1 = white2? " + (white1 == white2));
+		// 构造不同点
+		white1.display(new Position(3, 3));
+		white2.display(new Position(4, 4));
+		
+		
+		
+		
+		
+		Integer i1 = 13;
+		Integer i2 = 13;
+		System.out.println(i1==i2);  // true
+		
+		Integer i3 = 137;
+		Integer i4 = 137;
+		System.out.println(i3 == i4);   //false
+		
+		String s1 = "hello";
+		String s2 = "hello";
+		System.out.println(s1==s2);
+		
+		String s3 = new String("hello");
+		String s4 = new String("hello");
+		System.out.println(s3==s4);
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.flyweight.chess;
+
+public abstract class IChess {
+	
+	public abstract String getColor();
+	
+	public void display(){
+		System.out.println("棋子颜色 : " + getColor());
+	}
+
+}

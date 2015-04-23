@@ -1,0 +1,14 @@
+package com.mediator.colleague;
+
+public abstract class AbstractColleague {
+	
+	private AbstractMediator mediator;
+
+	public AbstractColleague(AbstractMediator mediator) {
+		this.mediator = mediator;
+	}
+	
+	
+	
+
+}

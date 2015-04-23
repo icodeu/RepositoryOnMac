@@ -1,0 +1,13 @@
+package com.iterator.page;
+
+public interface Iterator {
+	
+	public Object firstPage();
+	
+	public Object nextPage();
+	
+	public Object currentPage();
+	
+	public Object prePage();
+
+}

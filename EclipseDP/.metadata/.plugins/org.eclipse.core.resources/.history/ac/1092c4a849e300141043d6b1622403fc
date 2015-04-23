@@ -1,0 +1,33 @@
+package com.interpreter.robot;
+
+import java.util.Stack;
+
+public class InstructionHandler {
+	
+	private String instruction;
+	private AbstractNode node;
+	
+	public void handle(String instruction){
+		AbstractNode left, right;
+		AbstractNode direction, action, distance;
+		Stack<AbstractNode> stack = new Stack<AbstractNode>();
+		String[] words = instruction.split(" ");
+		for (int i=0;i<words.length;i++){
+			if (words[i].equalsIgnoreCase("and")){
+				left = stack.pop();
+				direction = new DirectionNode(words[++i]);
+				action = new ActionNode(words[++i]);
+				distance = new DistanceNode(words[++i]);
+				right = new SentenceNode(direction, action, distance);
+				stack.push(new AndNode(left, right));
+			}else {
+				direction = new DirectionNode(words[i]);
+				action = new ActionNode(words[++i]);
+				distance = new DistanceNode(words[++i]);
+				left = new SentenceNode(direction, action, distance);
+				stack.push(left);
+			}
+		}
+	}
+
+}

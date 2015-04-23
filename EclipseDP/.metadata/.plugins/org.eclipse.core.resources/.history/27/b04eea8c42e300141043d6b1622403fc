@@ -1,0 +1,14 @@
+package com.chain.oa;
+
+public class Director extends Leader {
+
+	public Director(String name) {
+		super(name);
+	}
+
+	@Override
+	public void handleRequest(LeaveRequest request) {
+		
+	}
+
+}

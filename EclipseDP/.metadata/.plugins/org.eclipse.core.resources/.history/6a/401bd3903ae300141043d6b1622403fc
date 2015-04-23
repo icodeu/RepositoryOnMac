@@ -1,0 +1,15 @@
+package com.flyweight.chess;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		IChess black1, black2, white1, white2;
+		ChessFactory factory = ChessFactory.getInstance();
+		
+		// 获取两颗黑棋
+		
+
+	}
+
+}

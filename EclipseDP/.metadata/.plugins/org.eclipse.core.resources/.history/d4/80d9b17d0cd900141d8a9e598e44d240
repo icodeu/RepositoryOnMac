@@ -1,8 +1,0 @@
-package com.prototype.enlist;
-
-public class PersonInfo implements Cloneable {
-
-	
-	
-	
-}

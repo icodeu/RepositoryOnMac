@@ -1,0 +1,22 @@
+package com.mediator.chatroom;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Chatgroup chatgroup = new Chatgroup();
+		
+		DiamondMember diamondMember = new DiamondMember("diamond");
+		CommonMember commonMember = new CommonMember("common");
+		
+		chatgroup.register(diamondMember);
+		chatgroup.register(commonMember);
+		diamondMember.setChatroom(chatgroup);
+		commonMember.setChatroom(chatgroup);
+		
+		diamondMember.sendText("diamond", "hello diamond");
+		commonMember.sendText("common", "hello common");
+		
+	}
+
+}

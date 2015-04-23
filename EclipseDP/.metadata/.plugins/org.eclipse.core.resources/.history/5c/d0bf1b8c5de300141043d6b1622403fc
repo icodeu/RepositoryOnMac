@@ -1,0 +1,34 @@
+package com.interpreter.calculator;
+
+import java.util.Stack;
+
+public class Calculator {
+	
+	private Node node;
+
+	public void calculate(String instruction){
+		String[] words = instruction.split(" ");
+		Node left, right;
+		Node value;
+		Stack<Node> stack = new Stack<Node>();
+		for (int i=0;i<words.length;i++){
+			if (words[i].equals("*") || words[i].equals("%") || words[i].equals("/")){
+				left = stack.pop();
+				right = new ValueNode(Integer.parseInt(words[++i]));
+				switch (words[i]) {
+				case "*":
+					right = new MulNode(left, right)
+					break;
+
+				default:
+					break;
+				}
+			}else {
+				left = new ValueNode(Integer.parseInt(words[i++]));
+				stack.push(left);
+			}
+		}
+	}
+	
+
+}

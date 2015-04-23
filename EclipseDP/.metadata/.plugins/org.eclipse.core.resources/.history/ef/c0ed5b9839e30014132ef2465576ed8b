@@ -1,0 +1,17 @@
+package com.flyweight.chess;
+
+public class ChessFactory {
+	
+	private static ChessFactory instance = new ChessFactory();
+
+	public static ChessFactory getInstance(){
+		if (instance == null){
+			instance = new ChessFactory();
+		}
+		return instance;
+	}
+	
+	public ChessFactory() {
+		
+	}
+}

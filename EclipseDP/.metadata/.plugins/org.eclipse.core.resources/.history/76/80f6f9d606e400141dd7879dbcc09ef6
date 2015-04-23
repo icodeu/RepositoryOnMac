@@ -1,0 +1,29 @@
+package com.iterator.page;
+
+public class ConcreteIterator implements Iterator {
+
+	@Override
+	public Object firstPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object nextPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object currentPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object getPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

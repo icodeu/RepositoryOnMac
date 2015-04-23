@@ -1,0 +1,10 @@
+package com.mediator.colleague;
+
+public class ColleagueA extends AbstractColleague {
+
+	public ColleagueA(AbstractMediator mediator) {
+		super(mediator);
+		// TODO Auto-generated constructor stub
+	}
+
+}

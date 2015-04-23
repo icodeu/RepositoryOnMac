@@ -1,0 +1,22 @@
+package com.flyweight.chess;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		IChess black1, black2, white1, white2;
+		ChessFactory instance = ChessFactory.getInstance();
+		
+		// 获取两颗黑棋
+		black1 = instance.getIChess(ChessFactory.BLACK);
+		black2 = instance.getIChess(ChessFactory.BLACK);
+		System.out.println("black1 = black2? " + (black1 == black2));
+		
+		// 获取两颗白棋
+		white1 = instance.getIChess(ChessFactory.WHITE);
+		white2 = instance.getIChess(ChessFactory.WHITE);
+		System.out.println("white1 = white2? " + (white1 == white2));
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.mediator.chatroom;
+
+public class Chatgroup implements AbstractChatroom {
+
+	@Override
+	public void register(Member member) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void sendText(String from, String to, String message) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void sendImage(String from, String to, String image) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

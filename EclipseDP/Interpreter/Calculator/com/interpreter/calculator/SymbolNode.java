@@ -1,0 +1,13 @@
+package com.interpreter.calculator;
+
+public abstract class SymbolNode implements Node {
+
+	private Node left;
+	private Node right;
+	
+	public SymbolNode(Node left, Node right) {
+		this.left = left;
+		this.right = right;
+	}
+
+}

@@ -1,0 +1,27 @@
+package com.dynamic.search;
+
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Proxy;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		// 真实被代理对象
+		ISearcher realSearch = new RealSearcher();
+		InvocationHandler handler = new SearcherHandler(realSearch);
+
+		// 代理
+		ISearcher client = (ISearcher) Proxy.newProxyInstance(realSearch.getClass()
+				.getClassLoader(), realSearch.getClass().getInterfaces(),
+				handler);
+		
+		String userId = "wanghuan";
+		String keyWord = "something";
+		
+		// 自动调用 searchHandler 的 invoke() 方法
+		client.doSearch(userId, keyWord);
+
+	}
+
+}

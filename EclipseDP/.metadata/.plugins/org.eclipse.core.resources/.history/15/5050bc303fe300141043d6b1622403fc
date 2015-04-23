@@ -1,0 +1,7 @@
+package com.flyweight.bus;
+
+public class BusFactory {
+	
+	private static BusFactory instance = new BusFactory();
+
+}

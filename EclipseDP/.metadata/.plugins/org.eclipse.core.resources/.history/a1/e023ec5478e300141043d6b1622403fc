@@ -1,0 +1,20 @@
+package com.mediator.chatroom;
+
+public class DiamondMember extends Member {
+
+	public DiamondMember(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void sendText(String to, String message) {
+
+	}
+
+	@Override
+	public void sendImage(String to, String image) {
+
+	}
+
+}

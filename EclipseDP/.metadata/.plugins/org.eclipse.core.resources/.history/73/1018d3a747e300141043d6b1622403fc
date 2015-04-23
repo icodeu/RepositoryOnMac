@@ -1,0 +1,28 @@
+package com.interpreter.robot;
+
+public class ActionNode implements AbstractNode {
+
+	private String direction;
+	
+	public ActionNode(String direction) {
+		this.direction = direction;
+	}
+
+	@Override
+	public String interpret() {
+		if (direction.equalsIgnoreCase("up")){
+			return "向上";
+		}
+		if (direction.equalsIgnoreCase("down")){
+			return "向下";
+		}
+		if (direction.equalsIgnoreCase("left")){
+			return "向左";
+		}
+		if (direction.equalsIgnoreCase("right")){
+			return "向右";
+		}
+		return "无效的方向指令";
+	}
+
+}

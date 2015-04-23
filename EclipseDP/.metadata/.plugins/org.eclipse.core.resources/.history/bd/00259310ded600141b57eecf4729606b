@@ -1,8 +1,0 @@
-
-public class CloneFactory {
-	
-	public IAnimal getClone(IAnimal animalSample){
-		
-	}
-
-}

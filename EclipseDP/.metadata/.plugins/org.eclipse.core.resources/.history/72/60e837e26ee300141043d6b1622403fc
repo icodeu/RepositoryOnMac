@@ -1,0 +1,9 @@
+package com.mediator.colleague;
+
+import java.util.Map;
+
+public abstract class AbstractMediator {
+	
+	private Map<String, AbstractColleague> map;
+
+}

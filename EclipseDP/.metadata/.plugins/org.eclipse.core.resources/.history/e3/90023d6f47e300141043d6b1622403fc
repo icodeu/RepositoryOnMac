@@ -1,0 +1,23 @@
+package com.interpreter.robot;
+
+public class DirectionNode implements AbstractNode {
+
+	private String direction;
+	
+	public DirectionNode(String direction) {
+		this.direction = direction;
+	}
+	
+	
+	
+	
+
+
+
+	@Override
+	public String interpret() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.interpreter.robot;
+
+public class AndNode implements AbstractNode {
+
+	private AbstractNode left; 
+	
+	@Override
+	public String interpret() {
+		return null;
+	}
+
+}

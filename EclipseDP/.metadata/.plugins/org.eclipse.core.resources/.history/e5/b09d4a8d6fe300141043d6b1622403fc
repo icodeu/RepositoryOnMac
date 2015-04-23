@@ -1,0 +1,17 @@
+package com.mediator.colleague;
+
+public class ColleagueA extends AbstractColleague {
+
+	public ColleagueA(AbstractMediator mediator) {
+		super(mediator);
+	}
+	
+	public void self(){
+		System.out.println("A : 做好分内之事");
+	}
+	
+	public void out(){
+		
+	}
+
+}

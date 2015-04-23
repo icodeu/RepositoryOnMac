@@ -1,9 +1,0 @@
-package com.adapter.mathpower;
-
-public class Adaptee {
-	
-	public int power(int base, int exp){
-		return Math.pow(base, exp);
-	}
-
-}

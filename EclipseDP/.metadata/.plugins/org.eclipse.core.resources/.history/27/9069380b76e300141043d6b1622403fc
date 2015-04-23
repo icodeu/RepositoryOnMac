@@ -1,0 +1,25 @@
+package com.mediator.chatroom;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Chatgroup implements AbstractChatroom {
+
+	private Map<String, Member> members = new HashMap<String, Member>();	
+	
+	@Override
+	public void register(Member member) {
+		
+	}
+
+	@Override
+	public void sendText(String from, String to, String message) {
+
+	}
+
+	@Override
+	public void sendImage(String from, String to, String image) {
+
+	}
+
+}

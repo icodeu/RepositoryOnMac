@@ -1,0 +1,15 @@
+package com.flyweight.bus;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class BusFactory {
+	
+	private static BusFactory instance = new BusFactory();
+	private Map<String, Bus> map;
+	
+	private BusFactory(){
+		map = new HashMap<String, Bus>();
+	}
+
+}

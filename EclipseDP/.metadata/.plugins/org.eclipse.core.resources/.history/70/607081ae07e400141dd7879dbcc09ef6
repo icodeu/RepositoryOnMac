@@ -1,0 +1,43 @@
+package com.iterator.page;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ConcreteIterator implements Iterator {
+
+	//假定一页十条数据
+	public static final int PAGE_SIZE = 10;
+	
+	private ConcreteAggregate aggregate;
+	
+	public ConcreteIterator(ConcreteAggregate aggregate) {
+		this.aggregate = aggregate;
+	}
+
+	@Override
+	public Object firstPage() {
+		List<String> datas = new ArrayList<String>();
+		for (int i=0;i<PAGE_SIZE;i++)
+			datas.add(aggregate.getItem(i));
+		return null;
+	}
+
+	@Override
+	public Object nextPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object currentPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object getPage() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

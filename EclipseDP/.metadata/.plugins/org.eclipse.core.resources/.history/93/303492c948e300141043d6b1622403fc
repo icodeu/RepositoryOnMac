@@ -1,0 +1,8 @@
+package com.interpreter.robot;
+
+public class InstructionHandler {
+	
+	private String instruction;
+	private AbstractNode node;
+
+}

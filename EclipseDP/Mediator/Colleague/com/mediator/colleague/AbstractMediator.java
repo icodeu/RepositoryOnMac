@@ -1,0 +1,20 @@
+package com.mediator.colleague;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public abstract class AbstractMediator {
+	
+	protected Map<String, AbstractColleague> map = new HashMap<String, AbstractColleague>();
+	
+	public void addColleague(String name, AbstractColleague c){
+		map.put(name, c);
+	}
+	
+	public void deleteColleague(String name){
+		map.remove(name);
+	}
+	
+	public abstract void execute(String name, String method);
+
+}

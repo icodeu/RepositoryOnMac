@@ -1,0 +1,9 @@
+package com.command.stringappend;
+
+public class Receiver {
+	
+	public String append(){
+		
+	}
+
+}

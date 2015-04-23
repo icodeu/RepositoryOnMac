@@ -1,0 +1,12 @@
+package com.interpreter.calculator;
+
+public class ValueNode implements Node {
+
+	private int value;
+	
+	@Override
+	public void interpret() {
+
+	}
+
+}

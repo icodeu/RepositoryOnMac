@@ -1,0 +1,20 @@
+package com.command.stringappend;
+
+public class ConcreteCommand extends AbstractCommand {
+
+	public ConcreteCommand(Receiver receiver) {
+		super(receiver);
+	}
+
+	@Override
+	public void Execute() {
+		receiver.append(origin, addtion)
+	}
+
+	@Override
+	public void unExcute() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

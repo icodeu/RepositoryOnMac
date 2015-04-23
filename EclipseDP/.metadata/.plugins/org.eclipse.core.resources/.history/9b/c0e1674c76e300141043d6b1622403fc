@@ -1,0 +1,8 @@
+package com.mediator.chatroom;
+
+public abstract class Member {
+	protected AbstractChatroom chatroom;
+	protected String name;
+	
+	
+}

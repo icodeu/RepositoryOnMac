@@ -1,0 +1,22 @@
+package com.command.stringappend;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Receiver receiver = new Receiver();
+		AbstractCommand appendCommand = new AppendCommand(receiver);
+		AbstractCommand undoCommond = new UndoCommand(receiver);
+		
+		Invoker invoker = new Invoker();
+		invoker.setCommand(appendCommand);
+		String str = invoker.executeCommand("hello", "world");
+		System.out.println(str);
+		
+		invoker.setCommand(undoCommond);
+		str = invoker.executeCommand(str, null);
+		System.out.println(str);
+
+	}
+
+}

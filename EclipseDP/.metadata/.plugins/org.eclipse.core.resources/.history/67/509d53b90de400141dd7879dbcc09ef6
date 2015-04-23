@@ -1,0 +1,5 @@
+package com.command.stringappend;
+
+public abstract class AbstractCommand {
+
+}

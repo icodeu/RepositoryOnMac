@@ -1,0 +1,9 @@
+package com.iterator.page;
+
+import java.util.Iterator;
+
+public interface Aggregate {
+	
+	public Iterator createIterator();
+
+}

@@ -1,0 +1,11 @@
+package com.interpreter.calculator;
+
+public class ValueNode implements Node {
+
+	@Override
+	public void interpret() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

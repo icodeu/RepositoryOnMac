@@ -1,0 +1,11 @@
+package com.interpreter.robot;
+
+public class SentenceNode implements AbstractNode {
+
+	@Override
+	public String interpret() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

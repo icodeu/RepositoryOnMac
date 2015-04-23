@@ -1,0 +1,7 @@
+package com.command.stringappend;
+
+public abstract class AbstractCommand {
+	
+	private Receiver receiver;
+
+}

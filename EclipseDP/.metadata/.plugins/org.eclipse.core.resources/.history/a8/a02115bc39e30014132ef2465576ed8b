@@ -1,0 +1,26 @@
+package com.flyweight.chess;
+
+import java.util.ArrayList;
+import java.util.Hashtable;
+import java.util.List;
+import java.util.Map;
+
+public class ChessFactory {
+	
+	private static ChessFactory instance = new ChessFactory();
+	private Map<String, IChess> map = null;
+	
+	public ChessFactory() {
+		list = new ArrayList<String, IChess>();
+		
+	}
+	
+	
+	
+	public static ChessFactory getInstance(){
+		if (instance == null){
+			instance = new ChessFactory();
+		}
+		return instance;
+	}
+}

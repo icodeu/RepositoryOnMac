@@ -1,0 +1,27 @@
+package com.interpreter.calculator;
+
+public class DivNode extends SymbolNode {
+	
+	private Node left;
+	private Node right;
+	
+	public DivNode(Node left, Node right) {
+		super(left, right);
+		this.left = left;
+		this.right = right;
+	}
+
+	@Override
+	public int interpret() {
+		System.out.println("计算 " + ((ValueNode)left).getValue() + "/" + ((ValueNode)right).getValue());
+		if (left instanceof ValueNode){
+			System.out.println("YES");
+			return ((ValueNode)left).getValue() / ((ValueNode)right).getValue();
+		}
+		else {
+			System.out.println("No");
+			return 0;
+		}
+	}
+
+}

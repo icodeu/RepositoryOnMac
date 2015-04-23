@@ -1,0 +1,9 @@
+('/Users/huan/Repository/Python/MyPython/DownloadImage/build/main/main',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1428894159)

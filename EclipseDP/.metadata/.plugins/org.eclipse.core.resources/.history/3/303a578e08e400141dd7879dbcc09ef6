@@ -1,0 +1,11 @@
+package com.iterator.page;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		ConcreteAggregate aggregate = new ConcreteAggregate();
+
+	}
+
+}

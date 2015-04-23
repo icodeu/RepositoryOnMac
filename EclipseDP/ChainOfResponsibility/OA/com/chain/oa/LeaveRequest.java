@@ -1,0 +1,22 @@
+package com.chain.oa;
+
+public class LeaveRequest {
+	
+	private int leaveDay;
+	
+	public LeaveRequest() {
+	}
+	
+	public LeaveRequest(int leaveDay) {
+		this.leaveDay = leaveDay;
+	}
+	
+	public void setLeaveDay(int leaveDay) {
+		this.leaveDay = leaveDay;
+	}
+	
+	public int getLeaveDay() {
+		return leaveDay;
+	}
+
+}

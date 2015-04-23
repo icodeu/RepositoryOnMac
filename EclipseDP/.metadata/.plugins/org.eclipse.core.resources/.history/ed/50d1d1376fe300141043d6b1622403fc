@@ -1,0 +1,7 @@
+package com.mediator.colleague;
+
+public abstract class AbstractColleague {
+	
+	
+
+}

@@ -1,0 +1,17 @@
+package com.interpreter.calculator;
+
+public class MulNode extends SymbolNode {
+	
+	private Node left;
+	private Node right;
+	
+	public MulNode(Node left, Node right) {
+		super(left, right);
+	}
+
+	@Override
+	public int interpret() {
+		return null;
+	}
+
+}

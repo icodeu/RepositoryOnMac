@@ -1,0 +1,13 @@
+package com.mediator.colleague;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		AbstractMediator mediator = new Mediator();
+		
+		AbstractColleague colleagueA = new ColleagueA(mediator);
+		
+	}
+
+}

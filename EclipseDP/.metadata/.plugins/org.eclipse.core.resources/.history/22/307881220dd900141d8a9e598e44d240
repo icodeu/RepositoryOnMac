@@ -1,7 +1,0 @@
-package com.prototype.enlist;
-
-public class Nation {
-	
-	private String nation;
-
-}

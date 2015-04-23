@@ -1,0 +1,5 @@
+package com.flyweight.bus;
+
+public class BusFactory {
+
+}

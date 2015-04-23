@@ -1,0 +1,10 @@
+package com.chain.oa;
+
+public abstract class Leader {
+	
+	public String name;
+	public Leader successor;
+	
+	
+
+}

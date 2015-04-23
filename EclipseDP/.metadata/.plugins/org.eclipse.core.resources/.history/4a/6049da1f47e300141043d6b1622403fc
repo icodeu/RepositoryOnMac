@@ -1,0 +1,14 @@
+package com.interpreter.robot;
+
+public class SentenceNode implements AbstractNode {
+
+	private AbstractNode direction;
+	private AbstractNode action;
+	
+	@Override
+	public String interpret() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

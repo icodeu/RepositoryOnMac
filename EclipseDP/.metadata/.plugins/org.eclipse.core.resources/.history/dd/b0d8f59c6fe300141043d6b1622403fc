@@ -1,0 +1,17 @@
+package com.mediator.colleague;
+
+public abstract class AbstractColleague {
+	
+	protected return_type name() {
+		
+	} AbstractMediator mediator;
+
+	public AbstractColleague(AbstractMediator mediator) {
+		this.mediator = mediator;
+	}
+	
+	public void setMediator(AbstractMediator mediator) {
+		this.mediator = mediator;
+	}
+
+}

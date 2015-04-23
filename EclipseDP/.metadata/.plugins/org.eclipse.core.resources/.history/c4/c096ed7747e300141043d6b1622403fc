@@ -1,0 +1,18 @@
+package com.interpreter.robot;
+
+public class DirectionNode implements AbstractNode {
+
+	private String direction;
+	
+	public DirectionNode(String direction) {
+		this.direction = direction;
+	}
+
+	@Override
+	public String interpret() {
+		if (direction.equalsIgnoreCase("up")){
+			return "向上";
+		}
+	}
+
+}

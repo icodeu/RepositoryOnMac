@@ -1,7 +1,0 @@
-package com.composite.shapetrans;
-
-public abstract class IShape {
-	
-	public String name;
-
-}

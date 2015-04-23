@@ -1,0 +1,7 @@
+package com.flyweight.bus;
+
+public class Bus {
+	
+	private String name;
+
+}

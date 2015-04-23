@@ -1,0 +1,16 @@
+package com.command.stringappend;
+
+public class Receiver {
+	
+	private String history;
+	
+	public String append(String origin, String addtion){
+		history = addtion;
+		return origin + addtion;
+	}
+	
+	public String undo(String origin){
+		
+	}
+
+}

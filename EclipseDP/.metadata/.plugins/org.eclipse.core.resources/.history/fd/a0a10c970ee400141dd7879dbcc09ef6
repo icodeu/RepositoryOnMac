@@ -1,0 +1,15 @@
+package com.command.stringappend;
+
+public class ConcreteCommand extends AbstractCommand {
+
+	public ConcreteCommand(Receiver receiver) {
+		super(receiver);
+	}
+
+	@Override
+	public String Execute(String origin, String addtion) {
+		return receiver.append(origin, addtion);
+	}
+
+
+}

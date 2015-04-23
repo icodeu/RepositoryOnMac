@@ -1,0 +1,7 @@
+package com.iterator.page;
+
+public interface Iterator {
+	
+	public Object firstPage();
+
+}

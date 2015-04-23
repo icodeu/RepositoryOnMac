@@ -1,0 +1,10 @@
+package com.mediator.colleague;
+
+public class Mediator extends AbstractMediator {
+
+	@Override
+	public void execute(String name, String method) {
+		
+	}
+
+}

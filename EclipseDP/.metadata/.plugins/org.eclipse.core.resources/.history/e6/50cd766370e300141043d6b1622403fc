@@ -1,0 +1,14 @@
+package com.mediator.colleague;
+
+public class Mediator extends AbstractMediator {
+
+	@Override
+	public void execute(String name, String method) {
+		if ("self".equals(method)){
+			if ("ColleagueA".equals(name)){
+				ColleagueA colleagueA = map.get("ColleagueA");
+			}
+		}
+	}
+
+}

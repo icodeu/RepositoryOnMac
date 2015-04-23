@@ -1,0 +1,22 @@
+package com.chain.oa;
+
+public abstract class Leader {
+	
+	public String name;
+	public Leader successor;
+	
+	public Leader(String name) {
+		this.name = name;
+	}
+	
+	public void setSuccessor(Leader successor){
+		this.successor = successor;
+	}
+	
+	public String getName() {
+		return name;
+	}
+	
+	public abstract void handleRequest(LeaveRequest request);
+
+}

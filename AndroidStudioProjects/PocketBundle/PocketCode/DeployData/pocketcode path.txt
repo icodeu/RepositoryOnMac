@@ -1,0 +1,193 @@
+C语言 曾怡    1421  23小时
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/01_C语言概述.mp4 61:05
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/02_程序的灵魂—算法.mp4 60:37
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/03_数据类型、运算符与表达式一.mp4 40:44
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/04_数据类型、运算符与表达式二.mp4 47:09
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/05_数据类型、运算符与表达式三.mp4 51:43
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/06_数据类型、运算符与表达式四.mp4 46:27
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/07_顺序程序设计一.mp4 48:04
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/08_顺序程序设计二.mp4 40:31
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/09_选择结构的程序设计一.mp4 48:25
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/10_选择结构的程序设计二.mp4 43:39
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/11_选择结构的程序设计三.mp4 45:48
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/12_循环结构程序设计一.mp4 49:04
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/13_循环结构程序设计二.mp4 49:58
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/14_循环结构程序设计三.mp4 47:02
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/15_循环结构程序设计四.mp4 57:09
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/16_数组一.mp4 49:39
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/17_数组二.mp4 49:39
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/18_数组三.mp4 46:10
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/19_数组四.mp4 41:42
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/20_数组五.mp4 54:54
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/21_函数一.mp4 53:41
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/22_函数二.mp4 43:02
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/23_函数三.mp4 43:01
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/24_指针一.mp4 42:32
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/25_指针二.mp4 45:45
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/26_指针三.mp4 46:48
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/27_指针四.mp4 44:15
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/28_结构体.mp4 21:46
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/29_复习总结第一讲.mp4 57:25
+http://7sblu3.com1.z0.glb.clouddn.com/C-zengyi/30_复习总结第二讲.mp4 42:28
+
+PHP语法基础  49   
+http://7sblu3.com1.z0.glb.clouddn.com/PHP语法基础/01_PHP标记符.mp4 07:13
+http://7sblu3.com1.z0.glb.clouddn.com/PHP语法基础/02_常量与变量.mp4 05:06
+http://7sblu3.com1.z0.glb.clouddn.com/PHP语法基础/03_函数.mp4 08:50
+http://7sblu3.com1.z0.glb.clouddn.com/PHP语法基础/04_流程控制.mp4 13:36
+http://7sblu3.com1.z0.glb.clouddn.com/PHP语法基础/05_循环.mp4 07:19
+http://7sblu3.com1.z0.glb.clouddn.com/PHP语法基础/06_逻辑运算.mp4 05:59
+
+
+
+MarsAndroid第一季    729  12小时
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_01_Android平台一日游.mp4  20:56
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_02_搭建Android开发环境.mp4 23:32
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_03_say_hello_to_Android.mp4   21:48
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_04_Activity初步.mp4  27:29
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_05_Activity和Intent.mp4  33:30
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_06_Android当中的常见控件.mp4   37:48
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_07_Activity生命周期（一）.mp4    19:06
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_08_Activity的生命周期（二）.mp4  25:35
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_09_Activity布局初步(一).mp4  30:11
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_10_Activity布局初步(二).mp4  12:16
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_11_Activity的布局初步（三）.mp4   26:30
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_12_Android常见控件（二）.mp4   27:02
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_13_常用控件（三）.mp4   34:25
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/SQLite的使用.mp4   44:54
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_16_SQLite使用方法1.mp4   44:54
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_17_调试程序.mp4   23:05
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_18_文件下载.mp4   33:07
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_19_ContentProvider初步.mp4   67:29
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_20_XML文件解析.mp4   38:46
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_21_广播机制（一）.mp4   25:04
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/02_22_广播机制（二）.mp4   29:42
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_23_WIFI网络操作.mp4  25:25
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_24_Socket编程.mp4  35:41
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第一季/01_25_Service初步（一）.mp4   20:26
+
+
+
+MarsAndroid第三季  227  3小时
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_01_蓝牙操作（一）.mp4   30:31
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_02_蓝牙操作（二）.mp4   22:57
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_03_用户定位（一）.mp4   27:44	
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_04_用户定位（二）.mp4   27:17
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_05_用户定位（三）.mp4   31:32
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_06_GoogleMap(一).mp4    24:37 
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_07_GoogleMap(二).mp4    33:17
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Android-第三季/03_08_GoogleMap(三).mp4    29:00
+
+   
+MarsAndroid第二季    397   6小时
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_01_spinner的使用.mp4   34:58
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_02_常见控件(五).mp4   28:25
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_03_常见控件（六）.mp4   33:20
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_04_常见控件（七）.mp4  22:54
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_05_appwidget(一).mp4   22:40
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_06_appwidget(二).mp4   25:32
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_07_AppWidget的使用(三).mp4   33:04
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_08_Animation的使用（一）.mp4   39:38
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_08_Animation的使用（一）（上）.mp4  35:31
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_09_Animations的使用（二）.mp4  25:16
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_10_Animations的使用(三).mp4   26:44
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_11_Animations的使用（四）.mp4  33:11
+http://pocketcode.qiniudn.com/Mars-Android-第二季/02_12_JSON数据解析.mp4   37:28
+
+MarsAndroid第四季   374  6小时
+http://pocketcode.qiniudn.com/Mars-Android-第四季/01_腾讯微博项目介绍.mp4   17:12
+http://pocketcode.qiniudn.com/Mars-Android-第四季/02_OAuth认证原理.mp4  19:41
+http://pocketcode.qiniudn.com/Mars-Android-第四季/03_OAuth认证（一）.mp4   25:12
+http://pocketcode.qiniudn.com/Mars-Android-第四季/04_10_OAuth认证流程（三）.mp4   31:42
+http://pocketcode.qiniudn.com/Mars-Android-第四季/04_11_发送一条微博信息.mp4   34:40
+http://pocketcode.qiniudn.com/Mars-Android-第四季/04_12_获取主页时间线.mp4   31:39
+http://pocketcode.qiniudn.com/Mars-Android-第四季/04_13_自定义ListView.mp4   29:06
+http://pocketcode.qiniudn.com/Mars-Android-第四季/04_14_图片的异步加载（一）.mp4   33:40
+http://pocketcode.qiniudn.com/Mars-Android-第四季/04_OAuth认证（二）.mp4     26:37
+http://pocketcode.qiniudn.com/Mars-Android-第四季/05_异步操作（一）.mp4   23:36
+http://pocketcode.qiniudn.com/Mars-Android-第四季/06_异步任务（二）.mp4    29:47
+http://pocketcode.qiniudn.com/Mars-Android-第四季/07_HTTP操作（一）.mp4   18:50
+http://pocketcode.qiniudn.com/Mars-Android-第四季/08_HTTP操作（二）.mp4    18:44
+http://pocketcode.qiniudn.com/Mars-Android-第四季/09_HTTP操作（三）.mp4    35:09
+
+Java   1347  22小时
+http://pocketcode.qiniudn.com/Mars-Java/01_Java考古学.mp4   25:14
+http://pocketcode.qiniudn.com/Mars-Java/02_Java创世纪.mp4   29:57
+http://pocketcode.qiniudn.com/Mars-Java/03_Java基本概念（一）.mp4  35:06
+http://pocketcode.qiniudn.com/Mars-Java/04_Java的变量.mp4  26:51
+http://pocketcode.qiniudn.com/Mars-Java/05_Java的基本数据类型.mp4  35:26
+http://pocketcode.qiniudn.com/Mars-Java/06_练习课（一）.mp4   36:10
+http://pocketcode.qiniudn.com/Mars-Java/07_运算符与表达式.mp4  45:05 
+http://pocketcode.qiniudn.com/Mars-Java/08_分支语句.mp4  35:47
+http://pocketcode.qiniudn.com/Mars-Java/09_练习课（二）.mp4  22:51
+http://pocketcode.qiniudn.com/Mars-Java/10_循环语句.mp4  14:11
+http://pocketcode.qiniudn.com/Mars-Java/11_练习课（三）.mp4  34:34
+http://pocketcode.qiniudn.com/Mars-Java/12_面向对象基础（一）.mp4  20:32
+http://pocketcode.qiniudn.com/Mars-Java/13_面向对象基础（二）.mp4  23:07
+http://pocketcode.qiniudn.com/Mars-Java/14_面向对象基础（三）.mp4  21:46
+http://pocketcode.qiniudn.com/Mars-Java/15_面向对象基础（四）.mp4  28:06
+http://pocketcode.qiniudn.com/Mars-Java/16_this的使用方法.mp4    25:17
+http://pocketcode.qiniudn.com/Mars-Java/17_static关键字的作用.mp4   25:28
+http://pocketcode.qiniudn.com/Mars-Java/18_继承初步.mp4  23:52
+http://pocketcode.qiniudn.com/Mars-Java/19_子类实例化过程.mp4   20:02
+http://pocketcode.qiniudn.com/Mars-Java/20_函数的复写.mp4  20:35
+http://pocketcode.qiniudn.com/Mars-Java/21_对象的转型.mp4  30:52
+http://pocketcode.qiniudn.com/Mars-Java/22_面向对象应用（一）.mp4  21:33
+http://pocketcode.qiniudn.com/Mars-Java/23_抽象类和抽象函数.mp4  28:26
+http://pocketcode.qiniudn.com/Mars-Java/24_为什么用抽象类.mp4  23:40
+http://pocketcode.qiniudn.com/Mars-Java/25_包和访问权限(一).mp4  23:24
+http://pocketcode.qiniudn.com/Mars-Java/26_包和访问权限（二）.mp4  26:24
+http://pocketcode.qiniudn.com/Mars-Java/27_包和访问权限（三）.mp4  23:59
+http://pocketcode.qiniudn.com/Mars-Java/28_接口的基本语法.mp4  27:59
+http://pocketcode.qiniudn.com/Mars-Java/29_接口的应用.mp4  27:58
+http://7sblu3.com1.z0.glb.clouddn.com/Mars-Java/Java当中的异常（一）.mp4  25:58
+http://pocketcode.qiniudn.com/Mars-Java/31_Java当中的异常（二）.mp4  16:29
+http://pocketcode.qiniudn.com/Mars-Java/32_Java当中的IO(一).mp4  44:47
+http://pocketcode.qiniudn.com/Mars-Java/33_Java当中的IO（二）.mp4  36:08
+http://pocketcode.qiniudn.com/Mars-Java/34_Java当中的IO（三）.mp4   34:35
+http://pocketcode.qiniudn.com/Mars-Java/35_内部类和匿名内部类.mp4   23:30
+http://pocketcode.qiniudn.com/Mars-Java/36_Java当中的线程.mp4  31:14
+http://pocketcode.qiniudn.com/Mars-Java/37_Java当中的线程（二）.mp4  23:32
+http://pocketcode.qiniudn.com/Mars-Java/38_Java当中的线程(三).mp4  27:41
+http://pocketcode.qiniudn.com/Mars-Java/38_Java当中的线程(三).mp4  27:41
+http://pocketcode.qiniudn.com/Mars-Java/40_Java当中的数组.mp4  27:06
+http://pocketcode.qiniudn.com/Mars-Java/41_类集框架（一）.mp4  24:32
+http://pocketcode.qiniudn.com/Mars-Java/42_类集框架(二).mp4  30:46
+http://pocketcode.qiniudn.com/Mars-Java/43_类集框架（三）.mp4  22:56
+http://pocketcode.qiniudn.com/Mars-Java/44_equals函数的作用.mp4  31:18
+http://pocketcode.qiniudn.com/Mars-Java/45_hashCode()与toString().mp4  22:26
+http://pocketcode.qiniudn.com/Mars-Java/46_开发工具之Eclipse(一).mp4  27:33
+http://pocketcode.qiniudn.com/Mars-Java/47_开发工具之Eclipse(二).mp4   30:15
+http://pocketcode.qiniudn.com/Mars-Java/48_开发工具之Eclipse(三).mp4  31:41
+http://pocketcode.qiniudn.com/Mars-Java/49_开发工具之Eclipse(四).mp4  24:40
+
+
+AndroidSwipeRefreshLayout  
+http://7sblu3.com1.z0.glb.clouddn.com/Android-SwipeRefreshLayout/01课程概要.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android-SwipeRefreshLayout/02SwipeRefreshLayout在XML中的使用.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android-SwipeRefreshLayout/03SwipeRefreshLayout在activity中的使用.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android-SwipeRefreshLayout/04下拉刷新加载数据.mp4
+
+Android记事本实战
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/01本课概要.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/02创建数据库.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/03设计布局.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/04添加文字内容.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/05添加适配器.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/06添加图片.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/07添加视频.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/08详情页布局.mp4
+http://7sblu3.com1.z0.glb.clouddn.com/Android记事本实战/09完成详情页显示.mp4
+
+
+
+http://icodeyou.qiniudn.com/android.jpg
+
+
+
+
+
+
+
+
+

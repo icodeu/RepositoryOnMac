@@ -1,0 +1,12 @@
+package com.interpreter.robot;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		String instruction = "up move 5 and down run 10 and left move 6";
+		InstructionHandler handler = new InstructionHandler();
+		
+	}
+
+}

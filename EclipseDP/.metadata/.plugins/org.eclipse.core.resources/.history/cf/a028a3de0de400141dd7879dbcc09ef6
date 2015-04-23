@@ -1,0 +1,16 @@
+package com.command.stringappend;
+
+public abstract class AbstractCommand {
+	
+	private Receiver receiver;
+
+	public AbstractCommand(Receiver receiver) {
+		this.receiver = receiver;
+	}
+	
+	public abstract void Execute();
+	public abstract void unExcute();
+	
+	
+
+}

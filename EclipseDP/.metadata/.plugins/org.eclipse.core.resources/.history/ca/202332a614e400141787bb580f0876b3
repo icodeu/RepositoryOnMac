@@ -1,0 +1,17 @@
+package com.flyweight.bus;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		BusFactory factory = BusFactory.getInstance();
+		Bus bus1, bus2;
+		
+		bus1 = factory.getBus("A");
+		bus2 = factory.getBus("A");
+		
+		System.out.println("bus1 == bus2 ? " + (bus1 == bus2));
+		
+	}
+
+}
